@@ -1,0 +1,9 @@
+<!--Example-->
+<div class="blogcard__box" onclick="window.location.href = '/blog/personal-website.html';">
+    <img src="assets/me_but_purple.webp" class="blogcard__thumb" style="pointer-events: none; user-select: none;" />
+    <div class="blogcard__title">Title</div>
+    <div class="blogcard__tags"><span class="tag__date">Date</span> <span class="tag__category" style="background-color: var(--green);">Category</span></div>
+    <div class="blogcard__desc">
+        Description for blog max 136 characters. make it simple but infomative about the article.
+    </div>
+</div>

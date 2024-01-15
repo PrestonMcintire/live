@@ -1,0 +1,43 @@
+# A.I Bots
+
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: SosoSpider
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
